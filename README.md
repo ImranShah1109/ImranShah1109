@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Imran Shaha.
+
+[![](https://img.shields.io/badge/-@ImranShah1109-%23181717?style=flat-square&logo=github)](https://github.com/ImranShah1109)
+<!-- [![](https://img.shields.io/badge/-Daniaal%20Nadir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniaal-nadir/)](https://www.linkedin.com/in/daniaal-nadir/) -->
 
 <!--
 **ImranShah1109/ImranShah1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
